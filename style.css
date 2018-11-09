@@ -90,6 +90,6 @@ header
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left top;
-    background-size: cover;
+    background-size: contain;
     
 }
